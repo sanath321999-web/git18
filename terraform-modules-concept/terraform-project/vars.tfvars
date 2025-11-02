@@ -1,0 +1,8 @@
+region        = "ap-notheast-1"
+ami_id        = "ami-0aec5ae807cea9ce0"
+instance_type = "t3.micro"
+instance_name = "tokyo-inastance"
+region      = "ap-southeast-2"
+bucket_name = "terra-bucket02"
+acl         = "private"
+environment = "development"
